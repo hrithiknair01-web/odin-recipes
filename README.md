@@ -1,2 +1,2 @@
 # odin-recipes
-# me make recipe project
+# Making Food recipes website  using html basics
