@@ -13,12 +13,13 @@
     text-align:center;
 }
 
-.home-button-one{
+.button{
     background-color:aliceblue;
     border:2px solid black
 }
 
-.home-button-two{
+.links{
     background-color:aliceblue;
     border:2px solid black
 }
+
